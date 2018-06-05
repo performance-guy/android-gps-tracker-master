@@ -6,9 +6,9 @@ package com.ods.salman.Login;
 
 public class AppConfig {
     // Server user login url
-    public static String URL_LOGIN = "http://api.virnt.com/login.php";
+    public static String URL_LOGIN = "";
 
-    public static String URL_LOCATION = "http://api.virnt.com/login.php";
+    public static String URL_LOCATION = "";
 
 
 

@@ -50,7 +50,7 @@
 
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyBn8q9O_1OzPutaaQB6DRRBKV_oAAsjs7w" />
+            android:value="" />
 
         <service
             android:name=".services.PushLocationService"

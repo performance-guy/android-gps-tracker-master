@@ -207,7 +207,7 @@ public class PushLocationService extends Service implements LocationListener {
         String tag_string_req = "req_location";
 
         StringRequest strReq = new StringRequest(Request.Method.POST,
-                AppConfig.URL_LOGIN, new Response.Listener<String>() {
+                AppConfig.URL_LOCATION, new Response.Listener<String>() {
 
             @Override
             public void onResponse(String response) {
